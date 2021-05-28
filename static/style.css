@@ -1,0 +1,13 @@
+* {
+  background: local;
+  color: rgb(223, 199, 140);
+}
+.container {
+  margin-top: 10%;
+}
+.button {
+  color: deepskyblue;
+}
+.mark {
+  font-size: medium;
+}
